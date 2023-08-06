@@ -1,0 +1,30 @@
+body{
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Raleway Dots', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    color: rgba(0, 0,0, 0.5);
+    top: 15%;
+    background: linear-gradient(to right,red,yellow);
+}
+
+
+h1{
+    /* font-family:'Raleway Dots', cursive; */
+    font:600 3.5em'Raleway Dots', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    color: rgba(0, 0,0, 0.5);
+    width: 100%;
+}
+
+h3{
+    font:900 1em'Raleway Dots', cursive;
+    text-transform: none;
+    color: rgba(0, 0,0, 0.5);
+    text-align: center;
+    letter-spacing: 0.01em;
+    width: 100%;
+}
